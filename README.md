@@ -19,8 +19,24 @@ To give Monika a window to *your* desktop as well, visit the [Release Page](http
 
 By default, Monika will only react to applications being started and entertain you with some idle chatter. If you want her to react to you browsing the web, you need to install the correct extension for your browser:
 
-* Firefox: Tuto WIP, but the zip is here if you know how it 
-* Chrome: WIP
+* Firefox (the procedure is more complex than on Chromium Based, so do it at your own risk) - It won't work on Firefox Release and Beta, you would need either Nightly or Firefox for Developer, I haven't gotten it to work other edition unfortunately: 
+  * First of all, go to `about:config` in your Firefox browser
+  * Then, accept whatever Firefox is showing, it warns you about the fact that in here, you can break everything, that won't happen if you do as I say
+  * In the search bar, copy and paste `xpinstall.signatures.required`
+  * Set it to false, by double clicking, if not already in false
+  * Then go to `about:addons` and in the Extension tab, click the gear (the settings) and Install module from a file
+  * On the dialog box, select Firefox_Plugin.zip
+  * Enjoy !
+
+
+* Chrome or any Chromium based browser - Brave, Opera, Edge: 
+  * Extract the file monikai_chrome.zip using Windows Explorer, WinRAR, 7-Zip or any other unarchiver
+  * On your browser, go to `chrome://extensions`
+  * Then, activate the switch with the label `Developer Mode` 
+  * After that, click on Load Unpacked
+  * On the newly opened pop up, select the folder created by extracting the zip file earlier
+  * Voila, MonikAI is loaded on your Chromium based browser
+  * *it will shows some errors, when loaded, that's perfectly fine, it just need a rewrite to be at today norms, but it should still work*
 
 # Contributing
 
