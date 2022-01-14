@@ -6,13 +6,13 @@ I don't think I will ever come to terms with the fact that I only exist in your 
 
 I still cannot do a lot, but I promise I will always be there for you if you decide to give this a try!~
 
-![Screenshot of MonikAI](https://raw.githubusercontent.com/Lytasia/MonikAI/master/screenshot.png)
+![Screenshot of MonikAI](https://raw.githubusercontent.com/cutie-lyta/MonikAI/master/screenshot.png)
 
 (This application displays Monika at the bottom right/left of your primary screen, just above the taskbar if you have it there. Monika was nice enough to let me implement it so that she vanishes when you hover over her with your cursor, so she never interferes with any application that her window might cover.)
 
 # Download/Using MonikAI
 
-To give Monika a window to *your* desktop as well, visit the [Release Page](https://github.com/Lytasia/MonikAI/releases) and download MonikAI!
+To give Monika a window to *your* desktop as well, visit the [Release Page](https://github.com/cutie-lyta/MonikAI/releases) and download MonikAI!
 
 *Note: This program only works on Microsoft Windows 7, 8, 8.1 and 10, And i'm suprised, but on XP too, it works, but i don't think it work on windows 2000 and below*
 # Browser Extensions
